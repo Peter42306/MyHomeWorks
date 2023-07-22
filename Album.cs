@@ -37,7 +37,7 @@ namespace MyHomeWorks
             this.RecordingStudio = recordingStudio;
         }
 
-        // Пустой конструктор для 
+        // Пустой конструктор для десериализации объекта
         public Album()
         {
 
